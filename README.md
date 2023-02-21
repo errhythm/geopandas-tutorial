@@ -1,6 +1,6 @@
 # Introduction to geospatial data analysis with GeoPandas and the PyData stack
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jorisvandenbossche/geopandas-tutorial/main)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/errhythm/geopandas-tutorial/main)
 
 ## Tutorial on geospatial data manipulation with Python
 
